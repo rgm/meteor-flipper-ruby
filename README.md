@@ -1,4 +1,8 @@
 meteor-flipper-ui
 =================
 
-CLI, Ruby and web interfaces for meteor-flipper
+CLI and Ruby interfaces for meteor-flipper.
+
+## Why Ruby?
+
+We needed Ruby so we could use it in Cucumber.
